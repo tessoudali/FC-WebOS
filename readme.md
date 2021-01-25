@@ -18,13 +18,15 @@ that are often hard to find and work as well as there installable software rival
   <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/compressed%20replacements/p4.gif"/><br>
   
   <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p5.gif"/><br>
-  <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p6.gif"/><br>
+  
+  <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/compressed%20replacements/p6.gif"/><br>
+  
   <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p7.gif"/><br>
   <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p8.gif"/><br>
   <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p9.gif"/><br>
   <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p10.gif"/><br>
   <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p11.gif"/><br>
   <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p12.gif"/><br>
-  <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p13.gif"/><br>
+  <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/compressed%20replacements/13.gif"/><br>
   <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p14.gif"/><br>
 </span></a></p>
