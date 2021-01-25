@@ -1,20 +1,3 @@
-<style type="text/css">
-<!--
-.style2 {font-size: 14px}
-.style24 {font-size: 14; font-family: Verdana, Arial, Helvetica, sans-serif; color: #333333; }
-.style25 {
-	color: #330066;
-	font-style: italic;
-	font-weight: bold;
-}
-.style26 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 18px;
-	font-weight: bold;
-}
-.style27 {color: #0099FF}
--->
-</style>
 <p class="style26">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://webos.floydcraft.co.uk" target="_blank" class="style27">Click Here to visit FloydCraft's WebOS in your Browser. </a></p>
 <table width="802" border="0">
   <tr>
