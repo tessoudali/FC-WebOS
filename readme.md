@@ -11,7 +11,8 @@ that are often hard to find and work as well as there installable software rival
   </tr>
 </table>
 <p><a href="https://cdn.floydcraft.co.uk/floydcraft-webos/" target="_blank"><span class="style2"><img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p1.gif" border="0"/><br>
-  <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p2.gif"/><br>
+  <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/compressed%20replacements/p2.gif"/><br>
+  
   <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p3.gif"/><br>
   <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p4.gif"/><br>
   <img src="https://cdn.floydcraft.co.uk/WebOSGifBlocks/p5.gif"/><br>
