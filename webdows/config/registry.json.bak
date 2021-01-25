@@ -1,0 +1,269 @@
+{
+    "explorer": {
+        "theme": {
+            "default": "webdows",
+            "extraCSS": ""
+        },
+		"startup": [
+			"webdows/belowaverage/explorer/piwik.js",
+			"webdows/config/explorer.startup.js",
+			"programs/Fence/Main.js",
+			"webdows/welcome.js",
+			"webdows/resources/explorer/animation.js"
+		],
+		"startmenu": [
+			{
+				"title": "About FC WebOS",
+				"icon": "webdows/resources/icons/info.ico",
+				"file": "webdows/webver.js"
+			}, {
+				"title": "Block Browser",
+				"icon": "programs/Web Explorer/1.png",
+				"file": "programs/Web Explorer/we.js"
+			}, {
+				"title": "FloydCraft eMail",
+				"icon": "programs/Email/email.ico",
+				"file": "programs/Email/email.js"
+			}, {
+				"title": "Discord",
+				"icon": "programs/Discord/discord.ico",
+				"file": "programs/Discord/discord.js"
+			}, {
+				"title": "FC Minecraft Tools",
+				"icon": "programs/FCtools/icons/FCTools.png",
+				"file": "programs/FCtools/Launcher.js"
+			}, {
+				"title": "Desktop App Launcher",
+				"icon": "programs/Fence/icon.png",
+				"file": "programs/Fence/Main.js"
+			}, {
+				"title": "FloydCraft MapApp",
+				"icon": "programs/MapApp/mapapp.ico",
+				"file": "programs/MapApp/mapapp.js"
+			}, {
+				"title": "Paint",
+				"icon": "programs/paint/paint.ico",
+				"file": "programs/paint/paint.js"
+			}, {
+				"title": "Notepad",
+				"icon": "webdows/resources/icons/note.ico",
+				"file": "webdows/notepad.js"
+			}, {
+				"title": "Command Prompt",
+				"icon": "webdows/resources/icons/scre.ico",
+				"file": "webdows/cmd.js"
+			}, {
+				"title": "Terminal",
+				"icon": "programs/Terminal/term.ico",
+				"file": "programs/Terminal/term.js"
+			}, {
+				"title": "Genact Spam Terminal",
+				"icon": "programs/genact/term.png",
+				"file": "programs/genact/term.js"
+			}, {
+				"title": "Yet Another Terminal",
+				"icon": "programs/YATerm/term.png",
+				"file": "programs/YATerm/term.js"
+			}, {
+				"title": "Registry Editor",
+				"icon": "webdows/resources/icons/rege.ico",
+				"file": "webdows/regedit.js"
+			}, {
+				"title": "Calculator",
+				"icon": "webdows/resources/icons/calc.ico",
+				"file": "webdows/calc.js"
+			}, {
+				"title": "UWP Calculator",
+				"icon": "programs/UWPcalc/UWPcalc.png",
+				"file": "programs/UWPcalc/UWPcalc.js"
+			}, {
+				"title": "YouTube",
+				"icon": "programs/YouTube/ytube.png",
+				"file": "programs/YouTube/ytube.js"
+			}, {
+				"title": "Winamp",
+				"icon": "programs/winamp/winamp.ico",
+				"file": "programs/winamp/winamp.js"
+			}, {
+				"title": "Audio Mass",
+				"icon": "programs/audiomass/amass.png",
+				"file": "programs/audiomass/amass.js"
+			}, {
+				"title": "Circuit Simulator",
+				"icon": "programs/CircuitSimulator/c-sim.png",
+				"file": "programs/CircuitSimulator/c-sim.js"
+			}, {
+				"title": "Sculpt Studio",
+				"icon": "programs/SculptGL/SculptGL.png",
+				"file": "programs/SculptGL/SculptGL.js"
+			}, {
+				"title": "Run",
+				"icon": "webdows/resources/icons/runi.ico",
+				"file": "webdows/run.js"
+			}, {
+				"title": "FloydCraft Office",
+				"icon": "programs/FCoffice/office.png",
+				"file": "programs/FCoffice/Launcher.js"
+			}, {
+				"title": "FC Word",
+				"icon": "programs/FCoffice/word.ico",
+				"file": "programs/FCoffice/word.js"
+			}, {
+				"title": "FC PowerPoint",
+				"icon": "programs/FCoffice/powerpoint.ico",
+				"file": "programs/FCoffice/powerpoint.js"
+			}, {
+				"title": "FC Excel",
+				"icon": "programs/FCoffice/excel.ico",
+				"file": "programs/FCoffice/excel.js"
+			}, {
+				"title": "Visual Studio Code",
+				"icon": "programs/FCoffice/code.png",
+				"file": "programs/FCoffice/code.js"
+			}, {
+				"title": "Google Earth",
+				"icon": "programs/Google/Earth.png",
+				"file": "programs/Google/Earth.js"
+			}, {
+				"title": "Webassembly Studio",
+				"icon": "programs/Webassembly/Studio.png",
+				"file": "programs/Webassembly/Studio.js"
+			}, {
+				"title": "Documentation for FC WebOS",
+				"icon": "programs/Docs/1.png",
+				"file": "programs/Docs/we.js"
+			}, {
+				"title": "How to Join FloydCraft",
+				"icon": "programs/AeroJoinInfo/AJFCI.png",
+				"file": "programs/AeroJoinInfo/AJFCI.js"
+			}, {
+				"title": "Minecraft Classic",
+				"icon": "programs/Minecraft/mcc.ico",
+				"file": "programs/Minecraft/mcc.js"
+			}, {
+				"title": "NovaSkin",
+				"icon": "programs/NovaSkin/skin.ico",
+				"file": "programs/NovaSkin/skin.js"
+			}, {
+				"title": "Quake",
+				"icon": "programs/Quake/qjs.ico",
+				"file": "programs/Quake/qjs.js"
+			}, {
+				"title": "Display Settings",
+				"icon": "programs/display/info.png",
+				"file": "programs/display/info.js"
+			}, {
+				"title": "Personalize",
+				"icon": "webdows/resources/icons/pers.ico",
+				"file": "webdows/personalize.js"
+			}, {
+				"title": "PhotoPea - PS Clone",
+				"icon": "programs/Photopea/photopea.png",
+				"file": "programs/Photopea/photopeaLauncher.js"
+			}, {
+				"title": "Mini Paint",
+				"icon": "programs/minipaint/mpaint.png",
+				"file": "programs/minipaint/mpaint.js"
+			}, {
+				"title": "PacMan",
+				"icon": "programs/PacMan/pac.png",
+				"file": "programs/PacMan/pac.js"
+			}, {
+				"title": "Unity Game Launcher",
+				"icon": "programs/Unity/unity.ico",
+				"file": "programs/Unity/Launcher.js"
+			}, {
+				"title": "MineBlock",
+				"icon": "programs/MineBlock/mine.png",
+				"file": "programs/MineBlock/mine.js"
+			}, {
+				"title": "Map76 for Fallout76",
+				"icon": "programs/Map76/map76.png",
+				"file": "programs/Map76/map76.js"
+			}, {
+				"title": "Text to Speech",
+				"icon": "programs/Speech/TTS.ico",
+				"file": "programs/Speech/TTS.js"
+			}, {
+				"title": "Solitaire",
+				"icon": "programs/Solitaire/sol.ico",
+				"file": "programs/Solitaire/sol.js"
+			}, {
+				"title": "Spider Solitaire",
+				"icon": "programs/SpiderSolitaire/spider.ico",
+				"file": "programs/SpiderSolitaire/spider.js"
+			}, {
+				"title": "Welcome to FCWebOS",
+				"icon": "webdows/resources/icons/logo.png",
+				"file": "webdows/welcome.js"
+			}, {
+				"title": "FC WebOS Credits",
+				"icon": "webdows/resources/icons/note.ico",
+				"file": "Public/Documents/credits.js"
+			}, {
+				"title": "Minecraft Tools",
+				"icon": "webdows/resources/icons/folder.png",
+				"file": "programs/FCtools/Launcher.js"
+			}
+		]
+    },
+    "system": {
+		"webldr": {
+			"exclude": [
+				"index.html",
+				"Public/",
+				"programs/",
+				"webdows/resources/icons/",
+				"webdows/config/",
+				"webdows/system32/"
+			]
+		},
+		"startup": [
+			"webdows/belowaverage/system/cordova_check.js",
+			"webdows/belowaverage/system/piwik.js",
+			"webdows/explorer.js"
+		],
+		"services": {
+			"explorer_time": {
+				"autoStart": "true",
+				"interval": "1000",
+				"path": "webdows/services/explorer/time.js"
+			}
+		},
+        "files": {
+            "ext": {
+                "txt": {
+                    "icon": "webdows/resources/icons/note.ico",
+                    "defaultProgram": "webdows/notepad.js"
+                },
+                "js": {
+                    "icon": "webdows/resources/icons/exei.ico"
+                },
+                "png": {
+                    "icon": "webdows/resources/icons/pngi.ico",
+                    "defaultProgram": ""
+                },
+                "gif": {
+                    "icon": "webdows/resources/icons/gifi.ico",
+                    "defaultProgram": ""
+                },
+                "jpg": {
+                    "icon": "webdows/resources/icons/jpgi.ico",
+                    "defaultProgram": ""
+                },
+                "ico": {
+                    "icon": "webdows/resources/icons/bmpi.ico",
+                    "defaultProgram": ""
+                }
+            }
+        }
+    },
+	"software": {
+		"belowaverage-org": {
+			"weblogon": {
+				"domain": "belowaverage.org",
+				"registry": "https://api.belowaverage.org/v1/webdows/registry/"
+			}
+		}
+	}
+}

@@ -1,0 +1,33 @@
+jQuery v3.1.1
+jQuery UI v1.11.4
+jQuery UI Touch Punch 0.2.3
+Google APIs
+"Windows" 9 icons - dtafalonso
+esktop App Launcher - FloydCraft
+File Manager - elfinder
+FloydCraft Office - OnlyOffice
+Block Browser - FloydCraft
+FloydCraft eMail - RainLoop
+Minecraft Tools - minecraft.tools
+FloydCraft Discord - WidgetBot
+FloydCraft MapApp - DynMap
+Notepad - FloydCraft
+Paint - JSPaint
+MiniPaint - viliusle
+CMD - FloydCraft
+WA Terminal - Wasmer-terminal
+Spam Terminal - genact
+Terminal with SSH - cb.vu
+Registry Editor - FloydCraft
+Classic Calculator - FloydCraft
+UWP Calculator - Uno
+Youtube APP - JSYoutubeLite
+Winamp - WebAmp
+Audio Mass -  pkalogiros
+Google Earth - Google
+Webasm Studio -  wasdk
+Minecraft Classic - Mojang/Microsoft
+Quake 3 - Quake3JS
+Classic Pacman - JSPacMan
+Fallout 76 Dynamic Map - Map76
+Text to Speech - addcast

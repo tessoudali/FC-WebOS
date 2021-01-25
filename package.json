@@ -1,0 +1,29 @@
+{
+	"name": "FloydCraft WebOS",
+	"version": "7.1.00242",
+	"description": "A dynamic \"Webulation\" of Microsoft Windows forked from Webdows for FloydCraft.",
+	"main": "webdows/system32/kernel.js",
+	"dependencies": {
+		"jquery": "3.2.1",
+		"platform.js": "1.3.1"
+	},
+	"engines": {
+		"node": "4.0.0"
+	},
+	"keywords": [
+		"FloydCraft",
+		"Web",
+		"OS",
+		"WebOS",
+		"FCWebOS",
+		"jquery",
+		"api",
+		"windows",
+		"javascript"
+	],
+	"author": "rmellis",
+	"contributors": [
+		"tallulah95 <tallulah95@m.floydcraft.co.uk> (http://cdn.floydcraft.co.uk/)"
+	],
+	"license": "MIT"
+}
